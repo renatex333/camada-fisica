@@ -1,4 +1,4 @@
-# PROJETO 4 – Protocolo de comunicação UART ponto a ponto.
+# PROJETO 4 – PROTOCOLO DE COMUNICAÇÃO UART PONTO-A-PONTO
 Ano de 2026. Agora você é um(a) engenheiro(a) de computação recém-contratado(a) para desenvolver a comunicação entre 
 sensores de campo (que enviam dados periodicamente) e aplicações locais que armazenam os dados em um banco SQL. Os 
 sensores não têm a funcionalidade de envio de dados via protocolo TCP-IP, porém têm um processador que pode rodar uma 
