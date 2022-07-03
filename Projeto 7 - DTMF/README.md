@@ -1,6 +1,5 @@
-# camadaFisica
-Trabalhos feitos na matéria de Camada física da computação do Insper
-## Projeto 7
+# PROJETO 7 – DTMF
+Você deve implementar via software um sistema de transmissão do dual tone multi frequency, um sinal de áudio utilizado pelas empresas de telefonia para detectar o sinal digitado pelo usuário. 
 
 ### Gráficos do Encode
 ![alt text](https://github.com/MineManiac/camadaFisica/blob/p7-DTMF/Client/Fourier.png)
