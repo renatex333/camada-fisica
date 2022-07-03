@@ -1,2 +1,3 @@
-# camadaFisica
-Trabalhos feitos na matéria de Camada física da computação do Insper
+# PROJETO LOOP BACK
+Neste projeto você deverá construir um código em Python para transmissão e recepção serial simultâneas!
+
