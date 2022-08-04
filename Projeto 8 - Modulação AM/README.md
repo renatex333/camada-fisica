@@ -15,9 +15,9 @@ Nesse projeto, seu objetivo é transmitir um áudio que ocupe bandas de baixas f
 
 ## DEMOD REALIDADE
 ### Sinal de áudio demodulado – domínio da frequência.
-![Fourier Demodulado](https://github.com/MineManiac/camadaFisica/blob/p8-AM/Server/fourierDemoduladoGravado.png)
+![Fourier Demodulado](https://github.com/renatex333/CAMFIS/blob/main/Projeto%208%20-%20Modula%C3%A7%C3%A3o%20AM/Server/fourierDemoduladoGravado.png)
 ### Sinal de áudio demodulado e filtrado – domínio da frequência.
-![Sinal Demodulado](https://github.com/MineManiac/camadaFisica/blob/p8-AM/Server/fourierFiltradoGravado.png)
+![Sinal Demodulado](https://github.com/renatex333/CAMFIS/blob/main/Projeto%208%20-%20Modula%C3%A7%C3%A3o%20AM/Server/fourierFiltradoGravado.png)
 
 ## DEMOD MUNDO IDEAL
 ### Sinal de áudio demodulado – domínio da frequência.
